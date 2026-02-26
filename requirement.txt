@@ -1,0 +1,11 @@
+transformers==4.56.1
+peft==0.17.0
+accelerate==1.10.0
+trl==0.23.1
+bitsandbytes==0.47.0
+datasets==4.0.0
+huggingface-hub==0.34.4
+safetensors==0.6.2
+pandas==2.2.2
+matplotlib==3.10.0
+numpy==2.0.2
